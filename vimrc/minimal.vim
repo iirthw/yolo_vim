@@ -12,7 +12,7 @@ set ruler
 " Ignore case during search.
 set ignorecase
 " Highlight search results.
-set hsearch
+set hlsearch
 " Highlight all matches.
 set incsearch
 
@@ -23,7 +23,7 @@ set showmatch
 " Syntax highlighting.
 syntax enable
 " Use ut8 by default.
-set encoding=ut8
+set encoding=utf8
 
 " ====================================
 
